@@ -1,13 +1,15 @@
 {
   "name": "SHABAN-MD",
   "version": "5.0.0",
-  "description": "A WhatsApp bot created using Node.js",
+  "description": "A WhatsApp Bot Created By Mr Shaban",
   "main": "index.js",
   "scripts": {
-    "start": "pm2-runtime index.js --name SHABAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
+    "stop": "pm2 stop SHABAN-MD",
+    "restart": "pm2 restart SHABAN-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "git+https://gitlab.com/amilaKumara/baileys-pmd.git",
+    "@whiskeysockets/baileys":"github:MRSHABAN42/SHABAN-Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",

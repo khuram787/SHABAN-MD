@@ -44,14 +44,20 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="lift">
  <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork"><img title="SHABAN-MD" src="https://img.shields.io/badge/FORK-SHABAN MD-h?color=008000&style=for-the-badge&logo=github"></a>
- 
 
-  **⛓️‍💥 NEW SESSION WEB ADDED 04-AUG**
+ -------------
   
-  <a href='https://pair-tmv2.onrender.com' target="_blank">
+<a href='https://shaban-md-pairweb.zone.id/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
+-------------
+
+<a href='https://shaban-md-pair2.zone.id/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+
+-------------
 
 ## _📡 DEPLOYMENT_
 
