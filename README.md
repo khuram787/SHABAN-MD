@@ -80,7 +80,7 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
 
 -------------
 
-**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF SHABAN-MD ✠***
+**_✠ FREE DEPLOYMENT OF SHABAN MD GITHUB WORKFLOW CODE ✠_**
 
 ```
 name: Node.js CI
